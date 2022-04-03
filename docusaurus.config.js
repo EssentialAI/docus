@@ -10,12 +10,12 @@ const katex = require('rehype-katex');
 const config = {
   title: 'The Essential AI',
   tagline: 'Learn AI, the Math way!',
-  url: 'https://theessentialai.com/docus',
-  baseUrl: '/',
+  url: 'https://EssentialAI.github.io',
+  baseUrl: '/docus/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/brain1.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'EssentialAI', // Usually your GitHub org/user name.
   projectName: 'docus', // Usually your repo name.
 
   presets: [
