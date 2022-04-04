@@ -10,8 +10,8 @@ const katex = require('rehype-katex');
 const config = {
   title: 'The Essential AI',
   tagline: 'Learn AI, the Math way!',
-  url: 'https://hopnet24.wixsite.com',
-  baseUrl: '/my-site-22/',
+  url: 'blog.theessentialai.com',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/brain1.ico',
